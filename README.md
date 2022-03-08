@@ -32,7 +32,7 @@
    <div>
     <h2></h2>
     <img align="center" alt="Alan-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="Alan-github" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+    <img align="center" alt="Alan-github" height="40" width="80" src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Logo.png">
   </div> 
   
   <h2></h2>
