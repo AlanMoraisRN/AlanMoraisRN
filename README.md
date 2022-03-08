@@ -2,9 +2,7 @@
 
 - 👨🏽‍🎓 I’m Science Computing Bacharel.
 - 👨🏽‍💻 I'm specializing in front-end programming
-- 🤔 I’m looking for help with Docker
 - 🔎 How to reach me: @alanmoraisrn
-- 😄 Pronouns: He / His / Him
 - 👨🏽‍🏫 Currently learning languages and framewors like: JavaScript, HTML, CSS, Node.js, React, Angular 9, JQuery, Bootstrap, Gulp, Next, ESNext, VueJS and Gulp.
 - 💡 Curious fact: modesty aside, I am a great volleyball and snooker player, as well as enjoying outdoor adventures. Yes, I am an adventurous and sporty nerd 😄
 
